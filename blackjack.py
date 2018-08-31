@@ -118,6 +118,9 @@ def new_game():
     deal_player()
 
 
+def wayne():
+    print("Wayne is happy")
+
 def shuffle():
     random.shuffle(deck)
 
